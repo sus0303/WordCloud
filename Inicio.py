@@ -1,5 +1,5 @@
 """
-☁️ WordCloud Studio — Nube de Palabras Profesional
+⋆｡ﾟ☁︎｡⋆ WordCloud Studio — Nube de Palabras Profesional
 Aplicación Streamlit con diseño corporativo limpio
 
 Instalación:
@@ -23,7 +23,7 @@ from wordcloud import WordCloud, STOPWORDS
 # ─────────────────────────────────────────────
 st.set_page_config(
     page_title="WordCloud Studio",
-    page_icon="☁️",
+    page_icon="｡ﾟ☁︎｡",
     layout="wide",
     initial_sidebar_state="expanded",
 )
